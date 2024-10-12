@@ -1,3 +1,6 @@
+![Alt_text](ALB/ApplicationLoadBalancer.drawio.png)
+
+---
 # AWS Project: Application Load Balancer (ALB) with Target Group (EC2 Instances)
 ## Project Overview
 In this project, we set up an AWS Application Load Balancer (ALB) with a target group consisting of two EC2 instances. The architecture is secured by using Security Groups that ensure traffic flows only through the ALB to the EC2 instances, preventing direct access to the EC2 instances by their public IP addresses.
